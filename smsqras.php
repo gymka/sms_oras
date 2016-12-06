@@ -7,7 +7,7 @@
 
         	
 <?php 
-$creden=file("credentials.txt");
+$creden=file("credentials147896.txt");
 $source=file_get_contents('http://orai.kasvyksta.lt/kaunas');
 
 $msg=$_POST["msg"];
