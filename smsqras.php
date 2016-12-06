@@ -148,7 +148,7 @@ echo "<b>Debug</b>\n";
             	
  
       
-        Copyright © 2015-2016 <a href="http://margevicius.lt" target="_parent">gymka</a>
+        Copyright © 2015-2016 gymka
 
 </body>
 </html>
